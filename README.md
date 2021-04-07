@@ -1,4 +1,4 @@
-### Hi there. Wlcome to my Github profile 👋
+### Hi there. Welcome to my Github profile 👋
 
 <!--
 **pierreilki/pierreilki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
